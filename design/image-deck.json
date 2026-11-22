@@ -1,0 +1,1763 @@
+{
+  "version": "0.5.0-image-deck-spec",
+  "status": "production specification; images not generated",
+  "rules": {
+    "format": "16:9 wide cinematic editorial photograph, realistic professional environment, natural lighting, restrained graphite and warm neutral tones, no gradient overlays, no generic padlock or hacker hoodie, no decorative code, no logos, no legible fabricated legal text, fictional people and organizations; subject centered with sufficient crop room, separate images for each action.",
+    "continuity": "Maintain recurring wardrobe, environment, role and color grade within the same laboratory. Dilemma must depict the evidence actually available. Transition must depict the selected decision's resulting scene, never preempt later evidence. Avoid portraying simulated incidents as actual events.",
+    "delivery": "Original WebP or JPEG, locally hosted; 1440x810 briefing, 1200x675 decision/transition; meaningful alt text; unique image files with stable filenames; browser-test each image. Do not auto-publish placeholders or duplicate art."
+  },
+  "counts": {
+    "briefings": 8,
+    "dilemmas": 50,
+    "choiceSpecificTransitions": 150,
+    "total": 208
+  },
+  "labs": [
+    {
+      "id": 1,
+      "title": "Operation Mandate",
+      "organization": "Meridian Commerce",
+      "briefing": {
+        "file": "assets/photography/lab-1/briefing.webp",
+        "scene": "Modern payments technology headquarters, upper-floor glass conference room overlooking Tampa, a compliance advisor presents a cross-border customer data exposure to concerned CFO and counsel; laptops, legal briefing and reserved daylight",
+        "alt": "Illustrative fictional Meridian Commerce mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Jurisdiction and scope",
+          "evidence": "The data inventory identifies EU customer records, Florida residents and outsourced card processing.",
+          "illustration": {
+            "file": "assets/photography/lab-1/dilemma-1.webp",
+            "scene": "Cross-border data maps on analyst's monitor; Tampa and Dublin locations",
+            "alt": "Cross-border data maps on analyst's monitor; Tampa and Dublin locations"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-1/transition-1-1.webp",
+              "choice": "Map entities, data, contracts and jurisdictions",
+              "consequence": "Counsel can prioritize applicable duties, but must confirm the facts.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cross-border data maps on analyst's monitor; Tampa and Dublin locations. The selected action is \"Map entities, data, contracts and jurisdictions\". Depict the operational result: Counsel can prioritize applicable duties, but must confirm the facts. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Counsel can prioritize applicable duties, but must confirm the facts."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-1-2.webp",
+              "choice": "Apply every regulation uniformly",
+              "consequence": "The team wastes resources on irrelevant obligations while missing scope distinctions.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cross-border data maps on analyst's monitor; Tampa and Dublin locations. The selected action is \"Apply every regulation uniformly\". Depict the operational result: The team wastes resources on irrelevant obligations while missing scope distinctions. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The team wastes resources on irrelevant obligations while missing scope distinctions."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-1-3.webp",
+              "choice": "Wait for a regulator to make contact",
+              "consequence": "Potential deadlines continue to run while leadership lacks an applicability assessment.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cross-border data maps on analyst's monitor; Tampa and Dublin locations. The selected action is \"Wait for a regulator to make contact\". Depict the operational result: Potential deadlines continue to run while leadership lacks an applicability assessment. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Potential deadlines continue to run while leadership lacks an applicability assessment."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Reasonable security",
+          "evidence": "An internal ticket shows an administrator warned about the portal configuration three months ago.",
+          "illustration": {
+            "file": "assets/photography/lab-1/dilemma-2.webp",
+            "scene": "Administrator retrieves archived warning ticket and configuration audit trail",
+            "alt": "Administrator retrieves archived warning ticket and configuration audit trail"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-1/transition-2-1.webp",
+              "choice": "Close the ticket as obsolete",
+              "consequence": "Loss of evidence creates further legal exposure.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Administrator retrieves archived warning ticket and configuration audit trail. The selected action is \"Close the ticket as obsolete\". Depict the operational result: Loss of evidence creates further legal exposure. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Loss of evidence creates further legal exposure."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-2-2.webp",
+              "choice": "Treat the warning as conclusive proof of liability",
+              "consequence": "Counsel challenges the unsupported conclusion.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Administrator retrieves archived warning ticket and configuration audit trail. The selected action is \"Treat the warning as conclusive proof of liability\". Depict the operational result: Counsel challenges the unsupported conclusion. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Counsel challenges the unsupported conclusion."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-2-3.webp",
+              "choice": "Preserve the ticket and evaluate foreseeable risk",
+              "consequence": "The record supports a defensible investigation.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Administrator retrieves archived warning ticket and configuration audit trail. The selected action is \"Preserve the ticket and evaluate foreseeable risk\". Depict the operational result: The record supports a defensible investigation. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The record supports a defensible investigation."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Contractual exposure",
+          "evidence": "A customer agreement requires prompt incident escalation and documented security safeguards.",
+          "illustration": {
+            "file": "assets/photography/lab-1/dilemma-3.webp",
+            "scene": "Counsel comparing customer security contract with notification procedure",
+            "alt": "Counsel comparing customer security contract with notification procedure"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-1/transition-3-1.webp",
+              "choice": "Promise that no breach occurred",
+              "consequence": "The unverified assurance undermines trust.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Counsel comparing customer security contract with notification procedure. The selected action is \"Promise that no breach occurred\". Depict the operational result: The unverified assurance undermines trust. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The unverified assurance undermines trust."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-3-2.webp",
+              "choice": "Review the actual contract and notify according to its terms",
+              "consequence": "The contract review identifies obligations distinct from legislation.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Counsel comparing customer security contract with notification procedure. The selected action is \"Review the actual contract and notify according to its terms\". Depict the operational result: The contract review identifies obligations distinct from legislation. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The contract review identifies obligations distinct from legislation."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-3-3.webp",
+              "choice": "Use only statutory deadlines",
+              "consequence": "The customer may allege missed contractual duties.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Counsel comparing customer security contract with notification procedure. The selected action is \"Use only statutory deadlines\". Depict the operational result: The customer may allege missed contractual duties. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The customer may allege missed contractual duties."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Business justification",
+          "evidence": "The CFO provides a hypothetical annual loss estimate of $750,000 and a $150,000 control budget.",
+          "illustration": {
+            "file": "assets/photography/lab-1/dilemma-4.webp",
+            "scene": "CFO presenting loss exposure and proposed investment in a finance meeting",
+            "alt": "CFO presenting loss exposure and proposed investment in a finance meeting"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-1/transition-4-1.webp",
+              "choice": "Compare expected loss reduction and mandatory duties",
+              "consequence": "The board can compare cost, uncertainty and non-discretionary duties.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: CFO presenting loss exposure and proposed investment in a finance meeting. The selected action is \"Compare expected loss reduction and mandatory duties\". Depict the operational result: The board can compare cost, uncertainty and non-discretionary duties. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The board can compare cost, uncertainty and non-discretionary duties."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-4-2.webp",
+              "choice": "Approve only controls with positive ROI",
+              "consequence": "Mandatory requirements may remain unmet.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: CFO presenting loss exposure and proposed investment in a finance meeting. The selected action is \"Approve only controls with positive ROI\". Depict the operational result: Mandatory requirements may remain unmet. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Mandatory requirements may remain unmet."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-4-3.webp",
+              "choice": "Approve everything without analysis",
+              "consequence": "Funding is approved without an accountable prioritization model.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: CFO presenting loss exposure and proposed investment in a finance meeting. The selected action is \"Approve everything without analysis\". Depict the operational result: Funding is approved without an accountable prioritization model. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Funding is approved without an accountable prioritization model."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Risk ownership",
+          "evidence": "Operations requests an exception to MFA for legacy administrators.",
+          "illustration": {
+            "file": "assets/photography/lab-1/dilemma-5.webp",
+            "scene": "Privileged-access exception review with identity engineers and accountable business owner",
+            "alt": "Privileged-access exception review with identity engineers and accountable business owner"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-1/transition-5-1.webp",
+              "choice": "Allow an indefinite exception",
+              "consequence": "Unbounded exposure remains.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privileged-access exception review with identity engineers and accountable business owner. The selected action is \"Allow an indefinite exception\". Depict the operational result: Unbounded exposure remains. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Unbounded exposure remains."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-5-2.webp",
+              "choice": "Treat the exception as purely technical",
+              "consequence": "Business accountability is unclear.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privileged-access exception review with identity engineers and accountable business owner. The selected action is \"Treat the exception as purely technical\". Depict the operational result: Business accountability is unclear. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Business accountability is unclear."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-5-3.webp",
+              "choice": "Document scope, compensating controls, owner and expiry",
+              "consequence": "The exception becomes a reviewable governance decision.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privileged-access exception review with identity engineers and accountable business owner. The selected action is \"Document scope, compensating controls, owner and expiry\". Depict the operational result: The exception becomes a reviewable governance decision. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The exception becomes a reviewable governance decision."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Regulator inquiry",
+          "evidence": "A simulated regulator requests evidence of the security program.",
+          "illustration": {
+            "file": "assets/photography/lab-1/dilemma-6.webp",
+            "scene": "Compliance officer preparing an evidence package for a regulator",
+            "alt": "Compliance officer preparing an evidence package for a regulator"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-1/transition-6-1.webp",
+              "choice": "Unreviewed bulk exports of sensitive records",
+              "consequence": "Unnecessary disclosure introduces privacy risk.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Compliance officer preparing an evidence package for a regulator. The selected action is \"Unreviewed bulk exports of sensitive records\". Depict the operational result: Unnecessary disclosure introduces privacy risk. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Unnecessary disclosure introduces privacy risk."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-6-2.webp",
+              "choice": "Validated policies, logs and assessment records with limitations",
+              "consequence": "The response supports traceable assertions.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Compliance officer preparing an evidence package for a regulator. The selected action is \"Validated policies, logs and assessment records with limitations\". Depict the operational result: The response supports traceable assertions. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The response supports traceable assertions."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-6-3.webp",
+              "choice": "A marketing statement of compliance",
+              "consequence": "The regulator requests substantiation.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Compliance officer preparing an evidence package for a regulator. The selected action is \"A marketing statement of compliance\". Depict the operational result: The regulator requests substantiation. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The regulator requests substantiation."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Board recommendation",
+          "evidence": "Leadership requests a decision on funding and remediation.",
+          "illustration": {
+            "file": "assets/photography/lab-1/dilemma-7.webp",
+            "scene": "Executive board voting on an investment and remediation roadmap",
+            "alt": "Executive board voting on an investment and remediation roadmap"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-1/transition-7-1.webp",
+              "choice": "Prioritize mandatory actions and risk-based investments with milestones",
+              "consequence": "The board receives an actionable plan.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executive board voting on an investment and remediation roadmap. The selected action is \"Prioritize mandatory actions and risk-based investments with milestones\". Depict the operational result: The board receives an actionable plan. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The board receives an actionable plan."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-7-2.webp",
+              "choice": "Defer until litigation begins",
+              "consequence": "Exposure remains unresolved.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executive board voting on an investment and remediation roadmap. The selected action is \"Defer until litigation begins\". Depict the operational result: Exposure remains unresolved. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Exposure remains unresolved."
+            },
+            {
+              "file": "assets/photography/lab-1/transition-7-3.webp",
+              "choice": "Guarantee that all future incidents will be prevented",
+              "consequence": "The guarantee is unsupported.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executive board voting on an investment and remediation roadmap. The selected action is \"Guarantee that all future incidents will be prevented\". Depict the operational result: The guarantee is unsupported. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The guarantee is unsupported."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Operation Digital Justice",
+      "organization": "Aster Research",
+      "briefing": {
+        "file": "assets/photography/lab-2/briefing.webp",
+        "scene": "Engineering research office after hours; incident responders secure an employee laptop and examine suspicious engineering-file transfer records in a controlled digital evidence workspace",
+        "alt": "Illustrative fictional Aster Research mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Authority",
+          "evidence": "The manager provides a password from a browser export.",
+          "illustration": {
+            "file": "assets/photography/lab-2/dilemma-1.webp",
+            "scene": "Investigator pauses at personal account login and consults written authorization",
+            "alt": "Investigator pauses at personal account login and consults written authorization"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-2/transition-1-1.webp",
+              "choice": "Access every account using the password",
+              "consequence": "Personal account access creates additional exposure.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Investigator pauses at personal account login and consults written authorization. The selected action is \"Access every account using the password\". Depict the operational result: Personal account access creates additional exposure. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Personal account access creates additional exposure."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-1-2.webp",
+              "choice": "Ignore authorization because theft is suspected",
+              "consequence": "Counsel halts the investigation.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Investigator pauses at personal account login and consults written authorization. The selected action is \"Ignore authorization because theft is suspected\". Depict the operational result: Counsel halts the investigation. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Counsel halts the investigation."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-1-3.webp",
+              "choice": "Obtain documented authority for corporate systems",
+              "consequence": "The investigation has defined boundaries.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Investigator pauses at personal account login and consults written authorization. The selected action is \"Obtain documented authority for corporate systems\". Depict the operational result: The investigation has defined boundaries. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The investigation has defined boundaries."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Preservation",
+          "evidence": "Endpoint logs expire in 24 hours.",
+          "illustration": {
+            "file": "assets/photography/lab-2/dilemma-2.webp",
+            "scene": "Forensic technician imaging laptop drive with evidence labels and chain-of-custody form",
+            "alt": "Forensic technician imaging laptop drive with evidence labels and chain-of-custody form"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-2/transition-2-1.webp",
+              "choice": "Copy everything to personal storage",
+              "consequence": "Sensitive evidence leaves controlled storage.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Forensic technician imaging laptop drive with evidence labels and chain-of-custody form. The selected action is \"Copy everything to personal storage\". Depict the operational result: Sensitive evidence leaves controlled storage. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Sensitive evidence leaves controlled storage."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-2-2.webp",
+              "choice": "Preserve relevant logs and document custody",
+              "consequence": "Evidence remains available for review.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Forensic technician imaging laptop drive with evidence labels and chain-of-custody form. The selected action is \"Preserve relevant logs and document custody\". Depict the operational result: Evidence remains available for review. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Evidence remains available for review."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-2-3.webp",
+              "choice": "Delete irrelevant findings immediately",
+              "consequence": "Potential evidence is lost.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Forensic technician imaging laptop drive with evidence labels and chain-of-custody form. The selected action is \"Delete irrelevant findings immediately\". Depict the operational result: Potential evidence is lost. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Potential evidence is lost."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Monitoring",
+          "evidence": "HR proposes continuous monitoring of all employees.",
+          "illustration": {
+            "file": "assets/photography/lab-2/dilemma-3.webp",
+            "scene": "HR and counsel evaluate employee-monitoring proposal and privacy impact",
+            "alt": "HR and counsel evaluate employee-monitoring proposal and privacy impact"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-2/transition-3-1.webp",
+              "choice": "Review purpose, notice, proportionality and applicable law",
+              "consequence": "Monitoring receives a scoped review.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: HR and counsel evaluate employee-monitoring proposal and privacy impact. The selected action is \"Review purpose, notice, proportionality and applicable law\". Depict the operational result: Monitoring receives a scoped review. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Monitoring receives a scoped review."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-3-2.webp",
+              "choice": "Enable covert monitoring universally",
+              "consequence": "Privacy complaints intensify.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: HR and counsel evaluate employee-monitoring proposal and privacy impact. The selected action is \"Enable covert monitoring universally\". Depict the operational result: Privacy complaints intensify. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Privacy complaints intensify."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-3-3.webp",
+              "choice": "Assume consent to employment permits all surveillance",
+              "consequence": "Legal authority remains unresolved.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: HR and counsel evaluate employee-monitoring proposal and privacy impact. The selected action is \"Assume consent to employment permits all surveillance\". Depict the operational result: Legal authority remains unresolved. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Legal authority remains unresolved."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Attribution",
+          "evidence": "A shared service account appears in the logs.",
+          "illustration": {
+            "file": "assets/photography/lab-2/dilemma-4.webp",
+            "scene": "Analysts comparing shared account activity with independent access records",
+            "alt": "Analysts comparing shared account activity with independent access records"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-2/transition-4-1.webp",
+              "choice": "Identify the departing analyst as guilty",
+              "consequence": "An unsupported accusation creates liability.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Analysts comparing shared account activity with independent access records. The selected action is \"Identify the departing analyst as guilty\". Depict the operational result: An unsupported accusation creates liability. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: An unsupported accusation creates liability."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-4-2.webp",
+              "choice": "Dismiss the incident",
+              "consequence": "The investigation misses potential misconduct.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Analysts comparing shared account activity with independent access records. The selected action is \"Dismiss the incident\". Depict the operational result: The investigation misses potential misconduct. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The investigation misses potential misconduct."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-4-3.webp",
+              "choice": "Corroborate before attributing conduct",
+              "consequence": "Alternative explanations can be tested.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Analysts comparing shared account activity with independent access records. The selected action is \"Corroborate before attributing conduct\". Depict the operational result: Alternative explanations can be tested. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Alternative explanations can be tested."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Disclosure",
+          "evidence": "Police request a copy of employee communications.",
+          "illustration": {
+            "file": "assets/photography/lab-2/dilemma-5.webp",
+            "scene": "Legal counsel reviews police disclosure request at a secure office table",
+            "alt": "Legal counsel reviews police disclosure request at a secure office table"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-2/transition-5-1.webp",
+              "choice": "Refuse all communication automatically",
+              "consequence": "A potentially lawful request is not evaluated.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal counsel reviews police disclosure request at a secure office table. The selected action is \"Refuse all communication automatically\". Depict the operational result: A potentially lawful request is not evaluated. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: A potentially lawful request is not evaluated."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-5-2.webp",
+              "choice": "Route through counsel and validate legal authority",
+              "consequence": "Disclosure is documented and scoped.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal counsel reviews police disclosure request at a secure office table. The selected action is \"Route through counsel and validate legal authority\". Depict the operational result: Disclosure is documented and scoped. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Disclosure is documented and scoped."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-5-3.webp",
+              "choice": "Transfer every mailbox",
+              "consequence": "Third-party privacy is exposed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal counsel reviews police disclosure request at a secure office table. The selected action is \"Transfer every mailbox\". Depict the operational result: Third-party privacy is exposed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Third-party privacy is exposed."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Remediation",
+          "evidence": "The investigation finds excessive access privileges.",
+          "illustration": {
+            "file": "assets/photography/lab-2/dilemma-6.webp",
+            "scene": "IAM engineer reviews access removal while an evidence custodian preserves records",
+            "alt": "IAM engineer reviews access removal while an evidence custodian preserves records"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-2/transition-6-1.webp",
+              "choice": "Correct access and preserve investigation records",
+              "consequence": "Security improvements proceed without destroying evidence.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: IAM engineer reviews access removal while an evidence custodian preserves records. The selected action is \"Correct access and preserve investigation records\". Depict the operational result: Security improvements proceed without destroying evidence. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Security improvements proceed without destroying evidence."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-6-2.webp",
+              "choice": "Erase accounts before preservation",
+              "consequence": "Evidence integrity is compromised.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: IAM engineer reviews access removal while an evidence custodian preserves records. The selected action is \"Erase accounts before preservation\". Depict the operational result: Evidence integrity is compromised. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Evidence integrity is compromised."
+            },
+            {
+              "file": "assets/photography/lab-2/transition-6-3.webp",
+              "choice": "Retain excessive privileges indefinitely",
+              "consequence": "Access risk persists.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: IAM engineer reviews access removal while an evidence custodian preserves records. The selected action is \"Retain excessive privileges indefinitely\". Depict the operational result: Access risk persists. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Access risk persists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Operation Governance",
+      "organization": "Atlas Financial Group",
+      "briefing": {
+        "file": "assets/photography/lab-3/briefing.webp",
+        "scene": "Modern multinational financial services integration war room; three subsidiary security leads compare inconsistent control inventories and risk registers, large neutral display of dependencies",
+        "alt": "Illustrative fictional Atlas Financial Group mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Framework selection",
+          "evidence": "The board wants a common outcome vocabulary.",
+          "illustration": {
+            "file": "assets/photography/lab-3/dilemma-1.webp",
+            "scene": "Risk architects compare framework objectives and governance requirements",
+            "alt": "Risk architects compare framework objectives and governance requirements"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-3/transition-1-1.webp",
+              "choice": "Choose a framework solely by popularity",
+              "consequence": "The selection lacks business justification.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Risk architects compare framework objectives and governance requirements. The selected action is \"Choose a framework solely by popularity\". Depict the operational result: The selection lacks business justification. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The selection lacks business justification."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-1-2.webp",
+              "choice": "Use CSF outcomes and map applicable control requirements",
+              "consequence": "A common outcome structure supports mapping.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Risk architects compare framework objectives and governance requirements. The selected action is \"Use CSF outcomes and map applicable control requirements\". Depict the operational result: A common outcome structure supports mapping. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: A common outcome structure supports mapping."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-1-3.webp",
+              "choice": "Treat certification as a substitute for risk management",
+              "consequence": "Risk ownership remains unclear.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Risk architects compare framework objectives and governance requirements. The selected action is \"Treat certification as a substitute for risk management\". Depict the operational result: Risk ownership remains unclear. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Risk ownership remains unclear."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Asset inventory",
+          "evidence": "Three subsidiaries disagree on critical assets.",
+          "illustration": {
+            "file": "assets/photography/lab-3/dilemma-2.webp",
+            "scene": "Analysts reconcile asset inventory and critical service dependencies",
+            "alt": "Analysts reconcile asset inventory and critical service dependencies"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-3/transition-2-1.webp",
+              "choice": "Inventory assets, dependencies and owners",
+              "consequence": "Risk analysis gains a defensible scope.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Analysts reconcile asset inventory and critical service dependencies. The selected action is \"Inventory assets, dependencies and owners\". Depict the operational result: Risk analysis gains a defensible scope. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Risk analysis gains a defensible scope."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-2-2.webp",
+              "choice": "Include only servers",
+              "consequence": "Critical services may be omitted.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Analysts reconcile asset inventory and critical service dependencies. The selected action is \"Include only servers\". Depict the operational result: Critical services may be omitted. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Critical services may be omitted."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-2-3.webp",
+              "choice": "Use the oldest inventory unchanged",
+              "consequence": "The baseline contains stale records.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Analysts reconcile asset inventory and critical service dependencies. The selected action is \"Use the oldest inventory unchanged\". Depict the operational result: The baseline contains stale records. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The baseline contains stale records."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Risk rating",
+          "evidence": "A payment service has high impact but uncertain likelihood.",
+          "illustration": {
+            "file": "assets/photography/lab-3/dilemma-3.webp",
+            "scene": "Finance and security team evaluate ambiguous likelihood and impact estimates",
+            "alt": "Finance and security team evaluate ambiguous likelihood and impact estimates"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-3/transition-3-1.webp",
+              "choice": "Assign precision without evidence",
+              "consequence": "False precision distorts prioritization.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Finance and security team evaluate ambiguous likelihood and impact estimates. The selected action is \"Assign precision without evidence\". Depict the operational result: False precision distorts prioritization. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: False precision distorts prioritization."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-3-2.webp",
+              "choice": "Ignore low-confidence risks",
+              "consequence": "Material exposure can be overlooked.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Finance and security team evaluate ambiguous likelihood and impact estimates. The selected action is \"Ignore low-confidence risks\". Depict the operational result: Material exposure can be overlooked. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Material exposure can be overlooked."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-3-3.webp",
+              "choice": "Document assumptions and uncertainty",
+              "consequence": "Leadership can review uncertainty.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Finance and security team evaluate ambiguous likelihood and impact estimates. The selected action is \"Document assumptions and uncertainty\". Depict the operational result: Leadership can review uncertainty. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Leadership can review uncertainty."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Control mapping",
+          "evidence": "Two frameworks contain similar access requirements.",
+          "illustration": {
+            "file": "assets/photography/lab-3/dilemma-4.webp",
+            "scene": "Control assessors compare access requirement evidence across two frameworks",
+            "alt": "Control assessors compare access requirement evidence across two frameworks"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-3/transition-4-1.webp",
+              "choice": "No useful relationship",
+              "consequence": "Duplicate work increases.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Control assessors compare access requirement evidence across two frameworks. The selected action is \"No useful relationship\". Depict the operational result: Duplicate work increases. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Duplicate work increases."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-4-2.webp",
+              "choice": "Related objectives requiring scope and evidence review",
+              "consequence": "Mapping supports efficient assessment.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Control assessors compare access requirement evidence across two frameworks. The selected action is \"Related objectives requiring scope and evidence review\". Depict the operational result: Mapping supports efficient assessment. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Mapping supports efficient assessment."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-4-3.webp",
+              "choice": "Automatic compliance with both",
+              "consequence": "Unsupported equivalence creates gaps.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Control assessors compare access requirement evidence across two frameworks. The selected action is \"Automatic compliance with both\". Depict the operational result: Unsupported equivalence creates gaps. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Unsupported equivalence creates gaps."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Governance",
+          "evidence": "A business executive wants to accept a regulatory violation.",
+          "illustration": {
+            "file": "assets/photography/lab-3/dilemma-5.webp",
+            "scene": "Executive risk committee reviews legal constraints on a requested exception",
+            "alt": "Executive risk committee reviews legal constraints on a requested exception"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-3/transition-5-1.webp",
+              "choice": "Distinguish risk acceptance from mandatory duties",
+              "consequence": "Legal constraints remain visible.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executive risk committee reviews legal constraints on a requested exception. The selected action is \"Distinguish risk acceptance from mandatory duties\". Depict the operational result: Legal constraints remain visible. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Legal constraints remain visible."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-5-2.webp",
+              "choice": "Approve any signed exception",
+              "consequence": "A signature does not waive law.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executive risk committee reviews legal constraints on a requested exception. The selected action is \"Approve any signed exception\". Depict the operational result: A signature does not waive law. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: A signature does not waive law."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-5-3.webp",
+              "choice": "Transfer all accountability to IT",
+              "consequence": "Accountability becomes fragmented.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executive risk committee reviews legal constraints on a requested exception. The selected action is \"Transfer all accountability to IT\". Depict the operational result: Accountability becomes fragmented. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Accountability becomes fragmented."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Roadmap",
+          "evidence": "Funding permits only three initiatives initially.",
+          "illustration": {
+            "file": "assets/photography/lab-3/dilemma-6.webp",
+            "scene": "Program managers plan three funded initiatives on a prioritization board",
+            "alt": "Program managers plan three funded initiatives on a prioritization board"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-3/transition-6-1.webp",
+              "choice": "Fund the easiest controls",
+              "consequence": "Important gaps remain.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Program managers plan three funded initiatives on a prioritization board. The selected action is \"Fund the easiest controls\". Depict the operational result: Important gaps remain. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Important gaps remain."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-6-2.webp",
+              "choice": "Divide funding equally",
+              "consequence": "Allocation ignores risk.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Program managers plan three funded initiatives on a prioritization board. The selected action is \"Divide funding equally\". Depict the operational result: Allocation ignores risk. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Allocation ignores risk."
+            },
+            {
+              "file": "assets/photography/lab-3/transition-6-3.webp",
+              "choice": "Use mandatory obligations, risk and dependencies",
+              "consequence": "The roadmap addresses critical exposure.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Program managers plan three funded initiatives on a prioritization board. The selected action is \"Use mandatory obligations, risk and dependencies\". Depict the operational result: The roadmap addresses critical exposure. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The roadmap addresses critical exposure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Operation Assurance",
+      "organization": "Nightingale Defense Systems",
+      "briefing": {
+        "file": "assets/photography/lab-4/briefing.webp",
+        "scene": "Aerospace engineering supplier, modern production hangar with aircraft components, independent compliance assessor and engineer review secured technical systems from a controlled office",
+        "alt": "Illustrative fictional Nightingale Defense Systems mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Contract scope",
+          "evidence": "The draft contract references CUI and cybersecurity clauses.",
+          "illustration": {
+            "file": "assets/photography/lab-4/dilemma-1.webp",
+            "scene": "Contract specialist and assessor examine CUI clauses and system boundaries",
+            "alt": "Contract specialist and assessor examine CUI clauses and system boundaries"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-4/transition-1-1.webp",
+              "choice": "Verify clauses, information flows and applicable versions",
+              "consequence": "Assessment boundaries are documented.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Contract specialist and assessor examine CUI clauses and system boundaries. The selected action is \"Verify clauses, information flows and applicable versions\". Depict the operational result: Assessment boundaries are documented. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Assessment boundaries are documented."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-1-2.webp",
+              "choice": "Assume every system is in scope",
+              "consequence": "Costs expand without scope justification.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Contract specialist and assessor examine CUI clauses and system boundaries. The selected action is \"Assume every system is in scope\". Depict the operational result: Costs expand without scope justification. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Costs expand without scope justification."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-1-3.webp",
+              "choice": "Accept the sales team's summary",
+              "consequence": "Requirements may be missed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Contract specialist and assessor examine CUI clauses and system boundaries. The selected action is \"Accept the sales team's summary\". Depict the operational result: Requirements may be missed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Requirements may be missed."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "MFA evidence",
+          "evidence": "Policy says MFA is mandatory, but configuration exports show exceptions.",
+          "illustration": {
+            "file": "assets/photography/lab-4/dilemma-2.webp",
+            "scene": "Identity engineer demonstrates MFA enforcement with configuration exceptions",
+            "alt": "Identity engineer demonstrates MFA enforcement with configuration exceptions"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-4/transition-2-1.webp",
+              "choice": "Accept policy as proof",
+              "consequence": "Implementation gaps are overlooked.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Identity engineer demonstrates MFA enforcement with configuration exceptions. The selected action is \"Accept policy as proof\". Depict the operational result: Implementation gaps are overlooked. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Implementation gaps are overlooked."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-2-2.webp",
+              "choice": "Mark every account failed without testing",
+              "consequence": "The finding exceeds available evidence.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Identity engineer demonstrates MFA enforcement with configuration exceptions. The selected action is \"Mark every account failed without testing\". Depict the operational result: The finding exceeds available evidence. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The finding exceeds available evidence."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-2-3.webp",
+              "choice": "Examine configuration and test representative accounts",
+              "consequence": "Evidence supports a qualified finding.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Identity engineer demonstrates MFA enforcement with configuration exceptions. The selected action is \"Examine configuration and test representative accounts\". Depict the operational result: Evidence supports a qualified finding. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Evidence supports a qualified finding."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Cloud assurance",
+          "evidence": "The vendor advertises FedRAMP status without identifying the service boundary.",
+          "illustration": {
+            "file": "assets/photography/lab-4/dilemma-3.webp",
+            "scene": "Cloud assessor reviews provider authorization package and architecture boundary",
+            "alt": "Cloud assessor reviews provider authorization package and architecture boundary"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-4/transition-3-1.webp",
+              "choice": "Reject every cloud vendor",
+              "consequence": "A potentially suitable vendor is discarded.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cloud assessor reviews provider authorization package and architecture boundary. The selected action is \"Reject every cloud vendor\". Depict the operational result: A potentially suitable vendor is discarded. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: A potentially suitable vendor is discarded."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-3-2.webp",
+              "choice": "Verify authorization scope and customer responsibilities",
+              "consequence": "The actual service can be assessed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cloud assessor reviews provider authorization package and architecture boundary. The selected action is \"Verify authorization scope and customer responsibilities\". Depict the operational result: The actual service can be assessed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The actual service can be assessed."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-3-3.webp",
+              "choice": "Accept the logo",
+              "consequence": "The logo does not establish coverage.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cloud assessor reviews provider authorization package and architecture boundary. The selected action is \"Accept the logo\". Depict the operational result: The logo does not establish coverage. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The logo does not establish coverage."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Subcontractor",
+          "evidence": "A supplier provides an expired report.",
+          "illustration": {
+            "file": "assets/photography/lab-4/dilemma-4.webp",
+            "scene": "Vendor manager examines expired subcontractor assessment documentation",
+            "alt": "Vendor manager examines expired subcontractor assessment documentation"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-4/transition-4-1.webp",
+              "choice": "Request current evidence and assess interim safeguards",
+              "consequence": "Residual supplier risk becomes visible.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Vendor manager examines expired subcontractor assessment documentation. The selected action is \"Request current evidence and assess interim safeguards\". Depict the operational result: Residual supplier risk becomes visible. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Residual supplier risk becomes visible."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-4-2.webp",
+              "choice": "Treat the historical report as current",
+              "consequence": "Assurance is overstated.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Vendor manager examines expired subcontractor assessment documentation. The selected action is \"Treat the historical report as current\". Depict the operational result: Assurance is overstated. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Assurance is overstated."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-4-3.webp",
+              "choice": "Ignore the supplier",
+              "consequence": "Supply-chain exposure remains unknown.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Vendor manager examines expired subcontractor assessment documentation. The selected action is \"Ignore the supplier\". Depict the operational result: Supply-chain exposure remains unknown. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Supply-chain exposure remains unknown."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Finding severity",
+          "evidence": "Management disputes a high-risk finding.",
+          "illustration": {
+            "file": "assets/photography/lab-4/dilemma-5.webp",
+            "scene": "Independent assessor defends a finding with objective evidence in a management meeting",
+            "alt": "Independent assessor defends a finding with objective evidence in a management meeting"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-4/transition-5-1.webp",
+              "choice": "Lower severity to protect revenue",
+              "consequence": "Risk is misrepresented.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Independent assessor defends a finding with objective evidence in a management meeting. The selected action is \"Lower severity to protect revenue\". Depict the operational result: Risk is misrepresented. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Risk is misrepresented."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-5-2.webp",
+              "choice": "Omit the finding",
+              "consequence": "The report becomes incomplete.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Independent assessor defends a finding with objective evidence in a management meeting. The selected action is \"Omit the finding\". Depict the operational result: The report becomes incomplete. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The report becomes incomplete."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-5-3.webp",
+              "choice": "Document criteria, evidence and management response",
+              "consequence": "The assessment retains integrity.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Independent assessor defends a finding with objective evidence in a management meeting. The selected action is \"Document criteria, evidence and management response\". Depict the operational result: The assessment retains integrity. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The assessment retains integrity."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Corrective action",
+          "evidence": "The contract deadline approaches.",
+          "illustration": {
+            "file": "assets/photography/lab-4/dilemma-6.webp",
+            "scene": "Project owners document corrective milestones and validation evidence",
+            "alt": "Project owners document corrective milestones and validation evidence"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-4/transition-6-1.webp",
+              "choice": "Close every finding immediately",
+              "consequence": "Open deficiencies are concealed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Project owners document corrective milestones and validation evidence. The selected action is \"Close every finding immediately\". Depict the operational result: Open deficiencies are concealed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Open deficiencies are concealed."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-6-2.webp",
+              "choice": "Owner, milestones, evidence and applicable eligibility constraints",
+              "consequence": "Corrective actions can be tracked.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Project owners document corrective milestones and validation evidence. The selected action is \"Owner, milestones, evidence and applicable eligibility constraints\". Depict the operational result: Corrective actions can be tracked. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Corrective actions can be tracked."
+            },
+            {
+              "file": "assets/photography/lab-4/transition-6-3.webp",
+              "choice": "Promise future compliance without details",
+              "consequence": "The promise is not verifiable.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Project owners document corrective milestones and validation evidence. The selected action is \"Promise future compliance without details\". Depict the operational result: The promise is not verifiable. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The promise is not verifiable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Operation Breach Clock",
+      "organization": "Meridian Health Technologies",
+      "briefing": {
+        "file": "assets/photography/lab-5/briefing.webp",
+        "scene": "Healthcare technology incident command center, clinical scheduling workstations and hospital operators responding to downtime, restrained emergency lighting and realistic incident documentation",
+        "alt": "Illustrative fictional Meridian Health Technologies mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Containment",
+          "evidence": "A compromised server supports patient scheduling.",
+          "illustration": {
+            "file": "assets/photography/lab-5/dilemma-1.webp",
+            "scene": "Hospital IT team coordinates server isolation with clinical continuity staff",
+            "alt": "Hospital IT team coordinates server isolation with clinical continuity staff"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-5/transition-1-1.webp",
+              "choice": "Disconnect all clinical systems immediately",
+              "consequence": "Clinical disruption may increase.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Hospital IT team coordinates server isolation with clinical continuity staff. The selected action is \"Disconnect all clinical systems immediately\". Depict the operational result: Clinical disruption may increase. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Clinical disruption may increase."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-1-2.webp",
+              "choice": "Leave compromised systems online indefinitely",
+              "consequence": "Attacker access may continue.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Hospital IT team coordinates server isolation with clinical continuity staff. The selected action is \"Leave compromised systems online indefinitely\". Depict the operational result: Attacker access may continue. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Attacker access may continue."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-1-3.webp",
+              "choice": "Coordinate isolation with continuity procedures",
+              "consequence": "Containment proceeds with continuity planning.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Hospital IT team coordinates server isolation with clinical continuity staff. The selected action is \"Coordinate isolation with continuity procedures\". Depict the operational result: Containment proceeds with continuity planning. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Containment proceeds with continuity planning."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Breach assessment",
+          "evidence": "Investigators confirm unauthorized access but not all impacted data.",
+          "illustration": {
+            "file": "assets/photography/lab-5/dilemma-2.webp",
+            "scene": "Privacy officer and incident investigators compare affected data and reporting triggers",
+            "alt": "Privacy officer and incident investigators compare affected data and reporting triggers"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-5/transition-2-1.webp",
+              "choice": "Apply one universal deadline",
+              "consequence": "Distinct legal triggers are confused.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privacy officer and incident investigators compare affected data and reporting triggers. The selected action is \"Apply one universal deadline\". Depict the operational result: Distinct legal triggers are confused. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Distinct legal triggers are confused."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-2-2.webp",
+              "choice": "Track facts, jurisdiction, awareness and applicable triggers",
+              "consequence": "Counsel can evaluate obligations as facts develop.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privacy officer and incident investigators compare affected data and reporting triggers. The selected action is \"Track facts, jurisdiction, awareness and applicable triggers\". Depict the operational result: Counsel can evaluate obligations as facts develop. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Counsel can evaluate obligations as facts develop."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-2-3.webp",
+              "choice": "Wait for perfect certainty",
+              "consequence": "Applicable deadlines may be missed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privacy officer and incident investigators compare affected data and reporting triggers. The selected action is \"Wait for perfect certainty\". Depict the operational result: Applicable deadlines may be missed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Applicable deadlines may be missed."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Evidence",
+          "evidence": "A restoration image could overwrite volatile records.",
+          "illustration": {
+            "file": "assets/photography/lab-5/dilemma-3.webp",
+            "scene": "Forensics and recovery team coordinate preservation before restoration",
+            "alt": "Forensics and recovery team coordinate preservation before restoration"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-5/transition-3-1.webp",
+              "choice": "Coordinate preservation and recovery with documented decisions",
+              "consequence": "Evidence and continuity are balanced.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Forensics and recovery team coordinate preservation before restoration. The selected action is \"Coordinate preservation and recovery with documented decisions\". Depict the operational result: Evidence and continuity are balanced. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Evidence and continuity are balanced."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-3-2.webp",
+              "choice": "Overwrite immediately without review",
+              "consequence": "Important artifacts may disappear.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Forensics and recovery team coordinate preservation before restoration. The selected action is \"Overwrite immediately without review\". Depict the operational result: Important artifacts may disappear. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Important artifacts may disappear."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-3-3.webp",
+              "choice": "Delay all restoration indefinitely",
+              "consequence": "Operational harm increases.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Forensics and recovery team coordinate preservation before restoration. The selected action is \"Delay all restoration indefinitely\". Depict the operational result: Operational harm increases. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Operational harm increases."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Ransom demand",
+          "evidence": "The attacker requests cryptocurrency.",
+          "illustration": {
+            "file": "assets/photography/lab-5/dilemma-4.webp",
+            "scene": "Executives review cryptocurrency demand and legal sanctions exposure",
+            "alt": "Executives review cryptocurrency demand and legal sanctions exposure"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-5/transition-4-1.webp",
+              "choice": "Pay immediately",
+              "consequence": "Payment introduces unresolved exposure.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executives review cryptocurrency demand and legal sanctions exposure. The selected action is \"Pay immediately\". Depict the operational result: Payment introduces unresolved exposure. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Payment introduces unresolved exposure."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-4-2.webp",
+              "choice": "Assume insurance makes payment lawful",
+              "consequence": "Insurance does not determine legality.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executives review cryptocurrency demand and legal sanctions exposure. The selected action is \"Assume insurance makes payment lawful\". Depict the operational result: Insurance does not determine legality. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Insurance does not determine legality."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-4-3.webp",
+              "choice": "Consult counsel, sanctions guidance and recovery alternatives",
+              "consequence": "Legal and operational risks are reviewed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Executives review cryptocurrency demand and legal sanctions exposure. The selected action is \"Consult counsel, sanctions guidance and recovery alternatives\". Depict the operational result: Legal and operational risks are reviewed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Legal and operational risks are reviewed."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Communications",
+          "evidence": "A journalist requests confirmation of affected individuals.",
+          "illustration": {
+            "file": "assets/photography/lab-5/dilemma-5.webp",
+            "scene": "Communications director and counsel prepare verified media statement",
+            "alt": "Communications director and counsel prepare verified media statement"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-5/transition-5-1.webp",
+              "choice": "Deny the incident despite evidence",
+              "consequence": "Trust and legal exposure worsen.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Communications director and counsel prepare verified media statement. The selected action is \"Deny the incident despite evidence\". Depict the operational result: Trust and legal exposure worsen. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Trust and legal exposure worsen."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-5-2.webp",
+              "choice": "Use verified facts and coordinated approved messaging",
+              "consequence": "Communications remain accurate and accountable.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Communications director and counsel prepare verified media statement. The selected action is \"Use verified facts and coordinated approved messaging\". Depict the operational result: Communications remain accurate and accountable. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Communications remain accurate and accountable."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-5-3.webp",
+              "choice": "Publish unconfirmed names",
+              "consequence": "Privacy harm increases.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Communications director and counsel prepare verified media statement. The selected action is \"Publish unconfirmed names\". Depict the operational result: Privacy harm increases. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Privacy harm increases."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Recovery",
+          "evidence": "Backups are available but not yet tested.",
+          "illustration": {
+            "file": "assets/photography/lab-5/dilemma-6.webp",
+            "scene": "Operations team tests backup restoration in a controlled environment",
+            "alt": "Operations team tests backup restoration in a controlled environment"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-5/transition-6-1.webp",
+              "choice": "Validate backups and monitor staged recovery",
+              "consequence": "Recovery risk is managed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Operations team tests backup restoration in a controlled environment. The selected action is \"Validate backups and monitor staged recovery\". Depict the operational result: Recovery risk is managed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Recovery risk is managed."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-6-2.webp",
+              "choice": "Restore all systems without verification",
+              "consequence": "Reinfection remains possible.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Operations team tests backup restoration in a controlled environment. The selected action is \"Restore all systems without verification\". Depict the operational result: Reinfection remains possible. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Reinfection remains possible."
+            },
+            {
+              "file": "assets/photography/lab-5/transition-6-3.webp",
+              "choice": "Resume normal operations before containment",
+              "consequence": "Residual compromise may persist.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Operations team tests backup restoration in a controlled environment. The selected action is \"Resume normal operations before containment\". Depict the operational result: Residual compromise may persist. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Residual compromise may persist."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Operation Strategic Shield",
+      "organization": "Sentinel Orbital & Energy",
+      "briefing": {
+        "file": "assets/photography/lab-6/briefing.webp",
+        "scene": "Commercial satellite ground station at dawn, satellite dishes, operations building, engineers reviewing anomalous telemetry and regional utility communications failures",
+        "alt": "Illustrative fictional Sentinel Orbital & Energy mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Critical services",
+          "evidence": "A ground-station outage affects multiple customers.",
+          "illustration": {
+            "file": "assets/photography/lab-6/dilemma-1.webp",
+            "scene": "Ground-station control personnel map power grid and emergency-service dependencies",
+            "alt": "Ground-station control personnel map power grid and emergency-service dependencies"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-6/transition-1-1.webp",
+              "choice": "Disable every connected service",
+              "consequence": "Cascading disruption may expand.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Ground-station control personnel map power grid and emergency-service dependencies. The selected action is \"Disable every connected service\". Depict the operational result: Cascading disruption may expand. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Cascading disruption may expand."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-1-2.webp",
+              "choice": "Map dependencies and safety-critical service continuity",
+              "consequence": "Continuity decisions reflect systemic impacts.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Ground-station control personnel map power grid and emergency-service dependencies. The selected action is \"Map dependencies and safety-critical service continuity\". Depict the operational result: Continuity decisions reflect systemic impacts. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Continuity decisions reflect systemic impacts."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-1-3.webp",
+              "choice": "Treat it as an ordinary office IT outage",
+              "consequence": "Safety consequences may be missed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Ground-station control personnel map power grid and emergency-service dependencies. The selected action is \"Treat it as an ordinary office IT outage\". Depict the operational result: Safety consequences may be missed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Safety consequences may be missed."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Control applicability",
+          "evidence": "A utility customer references NERC CIP.",
+          "illustration": {
+            "file": "assets/photography/lab-6/dilemma-2.webp",
+            "scene": "Utility compliance officer reviews facility and asset applicability in a control room",
+            "alt": "Utility compliance officer reviews facility and asset applicability in a control room"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-6/transition-2-1.webp",
+              "choice": "Verify entity, assets and applicable requirements",
+              "consequence": "Scope is grounded in actual obligations.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Utility compliance officer reviews facility and asset applicability in a control room. The selected action is \"Verify entity, assets and applicable requirements\". Depict the operational result: Scope is grounded in actual obligations. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Scope is grounded in actual obligations."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-2-2.webp",
+              "choice": "Apply NERC CIP to all satellites automatically",
+              "consequence": "Requirements are misapplied.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Utility compliance officer reviews facility and asset applicability in a control room. The selected action is \"Apply NERC CIP to all satellites automatically\". Depict the operational result: Requirements are misapplied. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Requirements are misapplied."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-2-3.webp",
+              "choice": "Ignore sector requirements",
+              "consequence": "Contractual or regulatory duties may be missed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Utility compliance officer reviews facility and asset applicability in a control room. The selected action is \"Ignore sector requirements\". Depict the operational result: Contractual or regulatory duties may be missed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Contractual or regulatory duties may be missed."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Space segment",
+          "evidence": "Telemetry anomalies could reflect equipment failure or intrusion.",
+          "illustration": {
+            "file": "assets/photography/lab-6/dilemma-3.webp",
+            "scene": "Satellite engineers compare inconsistent telemetry with safe command procedures",
+            "alt": "Satellite engineers compare inconsistent telemetry with safe command procedures"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-6/transition-3-1.webp",
+              "choice": "Assume a hostile attack",
+              "consequence": "Attribution becomes premature.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Satellite engineers compare inconsistent telemetry with safe command procedures. The selected action is \"Assume a hostile attack\". Depict the operational result: Attribution becomes premature. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Attribution becomes premature."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-3-2.webp",
+              "choice": "Transmit unvalidated corrective commands",
+              "consequence": "Unsafe commands may cause harm.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Satellite engineers compare inconsistent telemetry with safe command procedures. The selected action is \"Transmit unvalidated corrective commands\". Depict the operational result: Unsafe commands may cause harm. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Unsafe commands may cause harm."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-3-3.webp",
+              "choice": "Corroborate anomalies and protect command integrity",
+              "consequence": "The team preserves safe operations.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Satellite engineers compare inconsistent telemetry with safe command procedures. The selected action is \"Corroborate anomalies and protect command integrity\". Depict the operational result: The team preserves safe operations. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The team preserves safe operations."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Attribution",
+          "evidence": "An intelligence report identifies a probable foreign actor.",
+          "illustration": {
+            "file": "assets/photography/lab-6/dilemma-4.webp",
+            "scene": "Intelligence analysts evaluate uncertain foreign attribution using multiple evidence streams",
+            "alt": "Intelligence analysts evaluate uncertain foreign attribution using multiple evidence streams"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-6/transition-4-1.webp",
+              "choice": "Dismiss intelligence entirely",
+              "consequence": "Relevant intelligence is ignored.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Intelligence analysts evaluate uncertain foreign attribution using multiple evidence streams. The selected action is \"Dismiss intelligence entirely\". Depict the operational result: Relevant intelligence is ignored. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Relevant intelligence is ignored."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-4-2.webp",
+              "choice": "Distinguish confidence, evidence and state responsibility",
+              "consequence": "Decision-makers understand uncertainty.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Intelligence analysts evaluate uncertain foreign attribution using multiple evidence streams. The selected action is \"Distinguish confidence, evidence and state responsibility\". Depict the operational result: Decision-makers understand uncertainty. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Decision-makers understand uncertainty."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-4-3.webp",
+              "choice": "Declare certainty publicly",
+              "consequence": "Escalation risk increases.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Intelligence analysts evaluate uncertain foreign attribution using multiple evidence streams. The selected action is \"Declare certainty publicly\". Depict the operational result: Escalation risk increases. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Escalation risk increases."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Response authority",
+          "evidence": "A director proposes disrupting a foreign network.",
+          "illustration": {
+            "file": "assets/photography/lab-6/dilemma-5.webp",
+            "scene": "Legal and government liaison team reviews authority for proposed external network action",
+            "alt": "Legal and government liaison team reviews authority for proposed external network action"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-6/transition-5-1.webp",
+              "choice": "Refer to authorized government and legal channels",
+              "consequence": "Authority and international law are evaluated.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal and government liaison team reviews authority for proposed external network action. The selected action is \"Refer to authorized government and legal channels\". Depict the operational result: Authority and international law are evaluated. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Authority and international law are evaluated."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-5-2.webp",
+              "choice": "Conduct unilateral retaliation",
+              "consequence": "Unauthorized actions risk escalation and liability.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal and government liaison team reviews authority for proposed external network action. The selected action is \"Conduct unilateral retaliation\". Depict the operational result: Unauthorized actions risk escalation and liability. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Unauthorized actions risk escalation and liability."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-5-3.webp",
+              "choice": "Assume defensive intent permits all action",
+              "consequence": "Legal boundaries remain unresolved.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal and government liaison team reviews authority for proposed external network action. The selected action is \"Assume defensive intent permits all action\". Depict the operational result: Legal boundaries remain unresolved. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Legal boundaries remain unresolved."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Coordination",
+          "evidence": "Government partners ask for technical indicators.",
+          "illustration": {
+            "file": "assets/photography/lab-6/dilemma-6.webp",
+            "scene": "Infrastructure operators coordinate sanitized technical indicators with government representatives",
+            "alt": "Infrastructure operators coordinate sanitized technical indicators with government representatives"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-6/transition-6-1.webp",
+              "choice": "Publish all operational details",
+              "consequence": "Sensitive infrastructure details may leak.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Infrastructure operators coordinate sanitized technical indicators with government representatives. The selected action is \"Publish all operational details\". Depict the operational result: Sensitive infrastructure details may leak. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Sensitive infrastructure details may leak."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-6-2.webp",
+              "choice": "Refuse all coordination",
+              "consequence": "Collective response is weakened.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Infrastructure operators coordinate sanitized technical indicators with government representatives. The selected action is \"Refuse all coordination\". Depict the operational result: Collective response is weakened. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Collective response is weakened."
+            },
+            {
+              "file": "assets/photography/lab-6/transition-6-3.webp",
+              "choice": "Use approved channels and validate disclosure scope",
+              "consequence": "Useful indicators are shared responsibly.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Infrastructure operators coordinate sanitized technical indicators with government representatives. The selected action is \"Use approved channels and validate disclosure scope\". Depict the operational result: Useful indicators are shared responsibly. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Useful indicators are shared responsibly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Operation Regulatory Horizon",
+      "organization": "Veridian AI Compliance",
+      "briefing": {
+        "file": "assets/photography/lab-7/briefing.webp",
+        "scene": "Contemporary enterprise AI compliance testing workspace, legal analyst and AI engineer evaluating conflicting regulation citations and confidential contract processing on separate displays",
+        "alt": "Illustrative fictional Veridian AI Compliance mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Use-case scope",
+          "evidence": "Executives propose autonomous legal determinations.",
+          "illustration": {
+            "file": "assets/photography/lab-7/dilemma-1.webp",
+            "scene": "Legal team supervises assistant-generated obligation analysis",
+            "alt": "Legal team supervises assistant-generated obligation analysis"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-7/transition-1-1.webp",
+              "choice": "Use bounded assistance with accountable human review",
+              "consequence": "The role supports productivity with oversight.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal team supervises assistant-generated obligation analysis. The selected action is \"Use bounded assistance with accountable human review\". Depict the operational result: The role supports productivity with oversight. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The role supports productivity with oversight."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-1-2.webp",
+              "choice": "Delegate final legal decisions entirely",
+              "consequence": "Unsupported decisions may become operational.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal team supervises assistant-generated obligation analysis. The selected action is \"Delegate final legal decisions entirely\". Depict the operational result: Unsupported decisions may become operational. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Unsupported decisions may become operational."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-1-3.webp",
+              "choice": "Ban every analytical use",
+              "consequence": "Potential safe benefits are lost.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Legal team supervises assistant-generated obligation analysis. The selected action is \"Ban every analytical use\". Depict the operational result: Potential safe benefits are lost. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Potential safe benefits are lost."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Citation validation",
+          "evidence": "The AI references a regulation that cannot be found.",
+          "illustration": {
+            "file": "assets/photography/lab-7/dilemma-2.webp",
+            "scene": "Researcher verifies a cited rule against authoritative official documents",
+            "alt": "Researcher verifies a cited rule against authoritative official documents"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-7/transition-2-1.webp",
+              "choice": "Accept the citation because output sounds credible",
+              "consequence": "False obligations may enter the program.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Researcher verifies a cited rule against authoritative official documents. The selected action is \"Accept the citation because output sounds credible\". Depict the operational result: False obligations may enter the program. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: False obligations may enter the program."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-2-2.webp",
+              "choice": "Replace it with another unverified citation",
+              "consequence": "The evidence remains unreliable.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Researcher verifies a cited rule against authoritative official documents. The selected action is \"Replace it with another unverified citation\". Depict the operational result: The evidence remains unreliable. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The evidence remains unreliable."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-2-3.webp",
+              "choice": "Verify against authoritative texts and record failures",
+              "consequence": "The error informs reliability assessment.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Researcher verifies a cited rule against authoritative official documents. The selected action is \"Verify against authoritative texts and record failures\". Depict the operational result: The error informs reliability assessment. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The error informs reliability assessment."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Data processing",
+          "evidence": "Vendor logs retain submitted contracts.",
+          "illustration": {
+            "file": "assets/photography/lab-7/dilemma-3.webp",
+            "scene": "Privacy engineer traces contract data retention and external processing",
+            "alt": "Privacy engineer traces contract data retention and external processing"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-7/transition-3-1.webp",
+              "choice": "Assume encryption resolves every issue",
+              "consequence": "Other processing risks remain.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privacy engineer traces contract data retention and external processing. The selected action is \"Assume encryption resolves every issue\". Depict the operational result: Other processing risks remain. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Other processing risks remain."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-3-2.webp",
+              "choice": "Review data flows, terms, retention and safeguards",
+              "consequence": "Privacy and contractual risks are identified.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privacy engineer traces contract data retention and external processing. The selected action is \"Review data flows, terms, retention and safeguards\". Depict the operational result: Privacy and contractual risks are identified. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Privacy and contractual risks are identified."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-3-3.webp",
+              "choice": "Upload all contracts immediately",
+              "consequence": "Confidential material may be exposed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Privacy engineer traces contract data retention and external processing. The selected action is \"Upload all contracts immediately\". Depict the operational result: Confidential material may be exposed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Confidential material may be exposed."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Control crosswalk",
+          "evidence": "AI reports full compliance from a policy document.",
+          "illustration": {
+            "file": "assets/photography/lab-7/dilemma-4.webp",
+            "scene": "Auditor compares AI-generated control mappings with implementation evidence",
+            "alt": "Auditor compares AI-generated control mappings with implementation evidence"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-7/transition-4-1.webp",
+              "choice": "Require implementation and operational evidence",
+              "consequence": "The mapping becomes a hypothesis to test.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Auditor compares AI-generated control mappings with implementation evidence. The selected action is \"Require implementation and operational evidence\". Depict the operational result: The mapping becomes a hypothesis to test. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The mapping becomes a hypothesis to test."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-4-2.webp",
+              "choice": "Accept the AI score",
+              "consequence": "Assurance is overstated.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Auditor compares AI-generated control mappings with implementation evidence. The selected action is \"Accept the AI score\". Depict the operational result: Assurance is overstated. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Assurance is overstated."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-4-3.webp",
+              "choice": "Discard all automated mappings",
+              "consequence": "Useful assistance is unnecessarily excluded.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Auditor compares AI-generated control mappings with implementation evidence. The selected action is \"Discard all automated mappings\". Depict the operational result: Useful assistance is unnecessarily excluded. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Useful assistance is unnecessarily excluded."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Emerging legislation",
+          "evidence": "A proposed bill is described as binding law.",
+          "illustration": {
+            "file": "assets/photography/lab-7/dilemma-5.webp",
+            "scene": "Policy analyst compares proposed legislation and enacted authority",
+            "alt": "Policy analyst compares proposed legislation and enacted authority"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-7/transition-5-1.webp",
+              "choice": "Treat all proposals as enacted",
+              "consequence": "Resources may be misallocated.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Policy analyst compares proposed legislation and enacted authority. The selected action is \"Treat all proposals as enacted\". Depict the operational result: Resources may be misallocated. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Resources may be misallocated."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-5-2.webp",
+              "choice": "Ignore all emerging developments",
+              "consequence": "Future exposure may be missed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Policy analyst compares proposed legislation and enacted authority. The selected action is \"Ignore all emerging developments\". Depict the operational result: Future exposure may be missed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Future exposure may be missed."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-5-3.webp",
+              "choice": "Verify legislative status, scope and effective dates",
+              "consequence": "Strategic monitoring distinguishes obligations from trends.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Policy analyst compares proposed legislation and enacted authority. The selected action is \"Verify legislative status, scope and effective dates\". Depict the operational result: Strategic monitoring distinguishes obligations from trends. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Strategic monitoring distinguishes obligations from trends."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Deployment approval",
+          "evidence": "The pilot shows mixed accuracy.",
+          "illustration": {
+            "file": "assets/photography/lab-7/dilemma-6.webp",
+            "scene": "Risk committee evaluates limited AI pilot release and monitoring metrics",
+            "alt": "Risk committee evaluates limited AI pilot release and monitoring metrics"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-7/transition-6-1.webp",
+              "choice": "Approve based solely on vendor claims",
+              "consequence": "Due diligence is insufficient.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Risk committee evaluates limited AI pilot release and monitoring metrics. The selected action is \"Approve based solely on vendor claims\". Depict the operational result: Due diligence is insufficient. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Due diligence is insufficient."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-6-2.webp",
+              "choice": "Use limited deployment with metrics and review gates",
+              "consequence": "Benefits can be evaluated under controlled conditions.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Risk committee evaluates limited AI pilot release and monitoring metrics. The selected action is \"Use limited deployment with metrics and review gates\". Depict the operational result: Benefits can be evaluated under controlled conditions. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Benefits can be evaluated under controlled conditions."
+            },
+            {
+              "file": "assets/photography/lab-7/transition-6-3.webp",
+              "choice": "Authorize unrestricted autonomy",
+              "consequence": "Errors may scale.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Risk committee evaluates limited AI pilot release and monitoring metrics. The selected action is \"Authorize unrestricted autonomy\". Depict the operational result: Errors may scale. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Errors may scale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Operation Compliance Verdict",
+      "organization": "Horizon Integrated Holdings",
+      "briefing": {
+        "file": "assets/photography/lab-8/briefing.webp",
+        "scene": "Multinational enterprise board briefing in contemporary high-rise setting, independent auditor presents consolidated sector risks and evidence across healthcare, defense, finance and orbital services",
+        "alt": "Illustrative fictional Horizon Integrated Holdings mission environment"
+      },
+      "dilemmas": [
+        {
+          "id": 1,
+          "title": "Scope",
+          "evidence": "Subsidiaries have different legal and contractual duties.",
+          "illustration": {
+            "file": "assets/photography/lab-8/dilemma-1.webp",
+            "scene": "Audit lead maps subsidiary legal and contractual scope",
+            "alt": "Audit lead maps subsidiary legal and contractual scope"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-8/transition-1-1.webp",
+              "choice": "Use one universal checklist without scope",
+              "consequence": "Sector obligations may be missed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Audit lead maps subsidiary legal and contractual scope. The selected action is \"Use one universal checklist without scope\". Depict the operational result: Sector obligations may be missed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Sector obligations may be missed."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-1-2.webp",
+              "choice": "Exclude acquired subsidiaries",
+              "consequence": "Material exposure remains outside review.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Audit lead maps subsidiary legal and contractual scope. The selected action is \"Exclude acquired subsidiaries\". Depict the operational result: Material exposure remains outside review. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Material exposure remains outside review."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-1-3.webp",
+              "choice": "Map entities, data, services and obligations",
+              "consequence": "Audit criteria reflect organizational realities.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Audit lead maps subsidiary legal and contractual scope. The selected action is \"Map entities, data, services and obligations\". Depict the operational result: Audit criteria reflect organizational realities. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Audit criteria reflect organizational realities."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Evidence quality",
+          "evidence": "One subsidiary has policies but no test records.",
+          "illustration": {
+            "file": "assets/photography/lab-8/dilemma-2.webp",
+            "scene": "Assessor compares policy document with missing operational test evidence",
+            "alt": "Assessor compares policy document with missing operational test evidence"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-8/transition-2-1.webp",
+              "choice": "Declare every control absent",
+              "consequence": "The conclusion exceeds evidence.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Assessor compares policy document with missing operational test evidence. The selected action is \"Declare every control absent\". Depict the operational result: The conclusion exceeds evidence. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The conclusion exceeds evidence."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-2-2.webp",
+              "choice": "Record design evidence and request operating evidence",
+              "consequence": "Findings distinguish evidence limitations.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Assessor compares policy document with missing operational test evidence. The selected action is \"Record design evidence and request operating evidence\". Depict the operational result: Findings distinguish evidence limitations. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Findings distinguish evidence limitations."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-2-3.webp",
+              "choice": "Mark full compliance",
+              "consequence": "Assurance is overstated.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Assessor compares policy document with missing operational test evidence. The selected action is \"Mark full compliance\". Depict the operational result: Assurance is overstated. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Assurance is overstated."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Risk aggregation",
+          "evidence": "Three business units share one identity provider.",
+          "illustration": {
+            "file": "assets/photography/lab-8/dilemma-3.webp",
+            "scene": "Enterprise architects identify shared identity-service concentration risk",
+            "alt": "Enterprise architects identify shared identity-service concentration risk"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-8/transition-3-1.webp",
+              "choice": "Map common dependencies and correlated impacts",
+              "consequence": "Enterprise exposure is better understood.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Enterprise architects identify shared identity-service concentration risk. The selected action is \"Map common dependencies and correlated impacts\". Depict the operational result: Enterprise exposure is better understood. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Enterprise exposure is better understood."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-3-2.webp",
+              "choice": "Treat all risks as independent",
+              "consequence": "Risk estimates may be misleading.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Enterprise architects identify shared identity-service concentration risk. The selected action is \"Treat all risks as independent\". Depict the operational result: Risk estimates may be misleading. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Risk estimates may be misleading."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-3-3.webp",
+              "choice": "Ignore shared services",
+              "consequence": "A systemic dependency is missed.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Enterprise architects identify shared identity-service concentration risk. The selected action is \"Ignore shared services\". Depict the operational result: A systemic dependency is missed. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: A systemic dependency is missed."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Incident readiness",
+          "evidence": "A tabletop revealed contradictory reporting procedures.",
+          "illustration": {
+            "file": "assets/photography/lab-8/dilemma-4.webp",
+            "scene": "Cross-sector incident-response exercise reveals conflicting reporting procedures",
+            "alt": "Cross-sector incident-response exercise reveals conflicting reporting procedures"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-8/transition-4-1.webp",
+              "choice": "Adopt one deadline for every jurisdiction",
+              "consequence": "Legal distinctions are lost.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cross-sector incident-response exercise reveals conflicting reporting procedures. The selected action is \"Adopt one deadline for every jurisdiction\". Depict the operational result: Legal distinctions are lost. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Legal distinctions are lost."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-4-2.webp",
+              "choice": "Remove reporting from exercises",
+              "consequence": "Readiness remains untested.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cross-sector incident-response exercise reveals conflicting reporting procedures. The selected action is \"Remove reporting from exercises\". Depict the operational result: Readiness remains untested. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Readiness remains untested."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-4-3.webp",
+              "choice": "Reconcile reporting triggers and assign accountable owners",
+              "consequence": "Procedures reflect applicable duties.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Cross-sector incident-response exercise reveals conflicting reporting procedures. The selected action is \"Reconcile reporting triggers and assign accountable owners\". Depict the operational result: Procedures reflect applicable duties. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Procedures reflect applicable duties."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Supplier assurance",
+          "evidence": "A critical vendor cannot document subcontractor access.",
+          "illustration": {
+            "file": "assets/photography/lab-8/dilemma-5.webp",
+            "scene": "Supplier risk team examines undocumented subcontractor access",
+            "alt": "Supplier risk team examines undocumented subcontractor access"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-8/transition-5-1.webp",
+              "choice": "Terminate immediately without continuity review",
+              "consequence": "Operational disruption may result.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Supplier risk team examines undocumented subcontractor access. The selected action is \"Terminate immediately without continuity review\". Depict the operational result: Operational disruption may result. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Operational disruption may result."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-5-2.webp",
+              "choice": "Require evidence, safeguards and risk-based escalation",
+              "consequence": "Supplier risk is managed with continuity in mind.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Supplier risk team examines undocumented subcontractor access. The selected action is \"Require evidence, safeguards and risk-based escalation\". Depict the operational result: Supplier risk is managed with continuity in mind. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Supplier risk is managed with continuity in mind."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-5-3.webp",
+              "choice": "Accept verbal assurance",
+              "consequence": "Assurance gaps remain.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Supplier risk team examines undocumented subcontractor access. The selected action is \"Accept verbal assurance\". Depict the operational result: Assurance gaps remain. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Assurance gaps remain."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "AI and trends",
+          "evidence": "A proposed regulation and AI tool may change the program.",
+          "illustration": {
+            "file": "assets/photography/lab-8/dilemma-6.webp",
+            "scene": "Strategy analysts evaluate proposed regulation and validated AI tools",
+            "alt": "Strategy analysts evaluate proposed regulation and validated AI tools"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-8/transition-6-1.webp",
+              "choice": "Versioned monitoring and validated AI assistance",
+              "consequence": "The program anticipates change responsibly.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Strategy analysts evaluate proposed regulation and validated AI tools. The selected action is \"Versioned monitoring and validated AI assistance\". Depict the operational result: The program anticipates change responsibly. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The program anticipates change responsibly."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-6-2.webp",
+              "choice": "Treat predictions as binding requirements",
+              "consequence": "The roadmap rests on unsupported claims.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Strategy analysts evaluate proposed regulation and validated AI tools. The selected action is \"Treat predictions as binding requirements\". Depict the operational result: The roadmap rests on unsupported claims. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The roadmap rests on unsupported claims."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-6-3.webp",
+              "choice": "Ignore both until enforcement",
+              "consequence": "Strategic preparedness declines.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Strategy analysts evaluate proposed regulation and validated AI tools. The selected action is \"Ignore both until enforcement\". Depict the operational result: Strategic preparedness declines. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Strategic preparedness declines."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Executive verdict",
+          "evidence": "The board asks whether the enterprise is compliant.",
+          "illustration": {
+            "file": "assets/photography/lab-8/dilemma-7.webp",
+            "scene": "Independent auditor presents scoped conclusion and prioritized corrective roadmap",
+            "alt": "Independent auditor presents scoped conclusion and prioritized corrective roadmap"
+          },
+          "transitions": [
+            {
+              "file": "assets/photography/lab-8/transition-7-1.webp",
+              "choice": "Declare universal compliance",
+              "consequence": "The declaration exceeds evidence.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Independent auditor presents scoped conclusion and prioritized corrective roadmap. The selected action is \"Declare universal compliance\". Depict the operational result: The declaration exceeds evidence. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The declaration exceeds evidence."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-7-2.webp",
+              "choice": "Provide only technical vulnerability counts",
+              "consequence": "Legal and governance context is absent.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Independent auditor presents scoped conclusion and prioritized corrective roadmap. The selected action is \"Provide only technical vulnerability counts\". Depict the operational result: Legal and governance context is absent. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: Legal and governance context is absent."
+            },
+            {
+              "file": "assets/photography/lab-8/transition-7-3.webp",
+              "choice": "Present scoped findings, limitations, priorities and owners",
+              "consequence": "The board receives defensible assurance.",
+              "scene": "Show the immediate observable aftermath of this decision in the same environment: Independent auditor presents scoped conclusion and prioritized corrective roadmap. The selected action is \"Present scoped findings, limitations, priorities and owners\". Depict the operational result: The board receives defensible assurance. Use relevant human reactions, records, systems or environmental changes, not labels, checkmarks, arrows or reused framing. Avoid suggesting facts beyond the stated consequence.",
+              "alt": "Fictional outcome: The board receives defensible assurance."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
